@@ -1,6 +1,4 @@
-Hi and welcome! I'm still learning a lot about GitHub, but I'm having a fun time doing it. 
-
-You can check out my published work on Academia.edu or ResearchGate. 
+Hi and welcome! You can check out my published work here or through Google Scholar. 
 
 Website by: 
 Dimension by HTML5 UP
